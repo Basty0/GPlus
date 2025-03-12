@@ -24,7 +24,7 @@ source env/bin/activate  # Sur Windows, utilisez `env\Scripts\activate`
 
 ### Installer les dépendances Python
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### Installer TailwindCSS
